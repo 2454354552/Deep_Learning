@@ -208,7 +208,7 @@ def evaluate(model, data_loader, loss_history):
           '{:5}'.format(total_samples) + ' (' +
           '{:4.2f}'.format(100.0 * correct_samples / total_samples) + '%)\n')
 
-N_EPOCHS = 1
+N_EPOCHS = 100
 
 start_time = time.time()
 '''
