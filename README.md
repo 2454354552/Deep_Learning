@@ -1,4 +1,4 @@
-# deep_learning
+# Deep_Learning
 This is my deep learning repository 
 
 As we all know, MNIST data set is a common image data set for machine learning. Whenever we just learn a new classification algorithm, it is very appropriate to use MNIST data set to verify our new algorithm.
